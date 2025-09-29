@@ -12,8 +12,7 @@ This directory contains all the images used in the project.
 - [image1.png](img/image1.png): Plot of historical shipment share of Meta/Oculus Quest headsets.  
 - [image2.png](img/image2.png): Bass model fit to observed cumulative adoption.  
 - [image3.png](img/image3.png): Predicted diffusion of Apple Vision Pro based on Bass Model.  
-- [image4.png](img/image4.png): (Add your description here)
-
+- [image4.png](img/image4.png): Estimated quarterly number of Apple Vision Pro adopters from 2023 to 2026, projected using the Bass Diffusion Model.
 ### data/
 This directory holds datasets used for analysis.
 
